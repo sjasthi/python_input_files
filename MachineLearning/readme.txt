@@ -1,3 +1,7 @@
+Some popular sites for ML data sets:
+[1] Kaggle  http://www.kaggle.com
+[2] UC Irvine ML Lab  http://archive.ics.uci.edu/ml/index.php
+
 All the datasets required for teaching Machine Learning are hosted in this directory.
 
 [1] marketing_sales.csv
