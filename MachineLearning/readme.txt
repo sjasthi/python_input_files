@@ -20,4 +20,14 @@ Source: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 [4] Groceries_dataset.csv
 Model: Market Basket Analysis
 Source: https://www.kaggle.com/datasets/heeraldedhia/groceries-dataset 
+
+[5] WeatherAUS.csv
+Model: Decision Trees - Classfier and Regression Tree
+Source: https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package
+Ref: https://towardsdatascience.com/cart-classification-and-regression-trees-for-clean-but-powerful-models-cc89e60b7a85
+
+[6] Diabetes.csv
+Model: Decision Trees - Classfier and Regression Tree
+Source: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+
   
